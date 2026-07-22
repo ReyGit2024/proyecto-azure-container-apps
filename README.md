@@ -16,12 +16,12 @@ Un reclutador podrá ver aquí:
 
 ---
 
-## 🧩 Arquitectura del proyecto
+##  Arquitectura del proyecto
 
 La siguiente arquitectura resume el flujo completo del proyecto: desde el código fuente y la construcción de la imagen Docker, hasta el despliegue automatizado en Azure Container Apps y la observabilidad en Log Analytics.
 
 ![Arquitectura del Proyecto Azure Container Apps](./arquitectura.png)
-ç
+
 Descripción técnica del flujo
 CI/CD Pipeline
 
@@ -133,9 +133,6 @@ HTTP concurrent requests
 
 Log Analytics queries
 
-Queue length
-
-Cron jobs
 
 Logs y métricas  
 ACA envía logs y métricas a Log Analytics.
