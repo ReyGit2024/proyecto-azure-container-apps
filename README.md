@@ -229,12 +229,3 @@ terraform apply
 4. Ver outputs
 bash
 terraform output
-Si quieres, puedo ayudarte a añadir:
-
-Un diagrama adicional de flujo CI/CD
-
-Un apartado “Skills demostradas” para reclutadores
-
-Un pipeline GitHub Actions real para automatizar todo el despliegue
-
-Solo dime qué quieres potenciar.
